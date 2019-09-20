@@ -4,12 +4,14 @@ The intent of this project is to get used with a workflow using docker. The proj
 
 ## Getting Started
 
-With docker installed, run ```
+With docker installed, run 
+```
 docker build -t eduardo.martins/docker_app .
 ```
 inside the project folder for building the docker image.
 After that, you need to run the image which should install all project´s dependencies.
 NOTE: If you´re running this docker on your local machine, you should map the container´s 8080 port to your machine´s.
+
 ```
 run -d -P eduardo.martins/docker_app 
 ```
