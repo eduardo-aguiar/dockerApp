@@ -1,6 +1,6 @@
 # Docker App
 
-The intent of this project is to get used with a workflow using docker. The project is consisted of a simple node image, with express and nodemon for code refreshing 
+The intent of this project is to get used with a workflow using docker. The project is consisted of a simple node image, with express and nodemon for live code review. 
 
 ## Getting Started
 
